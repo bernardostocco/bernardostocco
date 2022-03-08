@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo(a)! 👋
 
-- 🌱 Estudante de Ciência de Dados e Inteligência Artificial na PUC Campinas.
+- 🌱 Estudante de Ciência de Dados e Inteligência Artificial pela PUC Campinas.
 - 🤓 Hoje, estudo: **Bancos de Dados Não-Relacionais (PI), Grafos e Redes Sociais e Sistemas Computacionais.** 
 - 🤔 Atualmente aprendendo as linguagens: **R, C, Java e Python.**
 - 📫 Contate-me no e-mail: contatobernardostocco@gmail.com
