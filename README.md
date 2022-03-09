@@ -2,7 +2,7 @@
 
 - 🌱 Estudante de Ciência de Dados e Inteligência Artificial pela PUC Campinas.
 - 🤓 Hoje, estudo: **Bancos de Dados Não-Relacionais (PI), Grafos e Redes Sociais e Sistemas Computacionais.** 
-- 🤔 Atualmente aprendendo as linguagens: **R, C, Java e Python.**
+- 🤔 Atualmente aprendendo as linguagens: **Java, Python, C e R.**
 - 📫 Contate-me no e-mail: contatobernardostocco@gmail.com
 
 <div align="center">
