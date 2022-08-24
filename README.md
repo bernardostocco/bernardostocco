@@ -2,8 +2,9 @@
 
 - 🌱 Estudante de Ciência de Dados e Inteligência Artificial pela PUC Campinas.
 - 🤓 Hoje, estudo: **Bancos de Dados Relacionais, Cálculo I e Programação WEB.** 
-- 🤔 Atualmente aprendendo as linguagens: **Java, Python, C e R.**
+- 🤔 Atualmente aprendendo as linguagens: **JavaScript, HTML e CSS.**
 - 📫 Contate-me no e-mail: comercial@bernardostocco.com.br
+- ⌚ Experiências prévias em: **R, C, Python e Banco de dados não-relacionais.**
 
 <div align="center">
   <a href="https://github.com/bernardostocco">
