@@ -1,9 +1,9 @@
 ### Olá! Seja bem vindo(a)! 👋
 
-- 🌱 Estudante de Ciência de Dados e Inteligência Artificial do segundo perído pela PUC Campinas
-- 🤓 Hoje, estudo: **Bancos de Dados Relacionais, Cálculo I e Programação WEB.** 
+- 🌱 Estudante de Sistemas da Informação do segundo perído pela PUC Campinas
+- 🤓 Hoje, estudo: **Banco de dado, Processos de Engenharia de Software e Algoritmos de Programação.** 
 - 🤔 Atualmente aprendendo as linguagens: **JavaScript, HTML e CSS.**
-- 📫 Contate-me no e-mail: comercial@bernardostocco.com.br
+- 📫 Contate-me no e-mail: bernardostocco12@gmail.com
 - ⌚ Experiências prévias em: **R, C, Python e Banco de dados não-relacionais.**
 
 <div align="center">
