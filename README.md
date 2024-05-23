@@ -1,10 +1,10 @@
 ### Olá! Seja bem vindo(a)! 👋
 
 - 🌱 Estudante de Sistemas da Informação do segundo perído pela PUC Campinas
-- 🤓 Hoje, estudo: **Banco de dado, Processos de Engenharia de Software e Algoritmos de Programação.** 
-- 🤔 Atualmente aprendendo as linguagens: **JavaScript, HTML e CSS.**
+- 🤓 Hoje, estudo: **MongoDB, Estrutura e Recuperação de Dados, BPMN e Android Studio** 
+- 🤔 Atualmente aprendendo as linguagens: **JavaScript, HTML, CSS, C e Flutter**
 - 📫 Contate-me no e-mail: bernardostocco12@gmail.com
-- ⌚ Experiências prévias em: **R, C, Python e Banco de dados não-relacionais.**
+- ⌚ Experiências prévias em: **R, C, Python e SQL Server.**
 
 <div align="center">
   <a href="https://github.com/bernardostocco">
