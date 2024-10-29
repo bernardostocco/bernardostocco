@@ -1,4 +1,4 @@
-<h2 align="left">Hey! I'm Bernardo! Welcome to my profile 👋</h2>
+<h2 align="left">Oi! Eu sou o Bernardo, seja bem-vindo(a) ao meu perfil! 👋</h2>
 
 ###
 
